@@ -23,4 +23,6 @@ This project focuses on sleep onset and wake-up detection using a wrist-worn acc
 
 ![Image Alt text](sleep_train_predictions.JPG)
 
+![alt text](https://github.com/AtharvaJoshi-11/Sleep_Detection/issues/1#issue-2515646689)
+
 
