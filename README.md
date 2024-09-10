@@ -6,21 +6,21 @@ This project focuses on sleep onset and wake-up detection using a wrist-worn acc
 
 ## Data Visualization
 
-![Image Alt text](/sleep_train_data_visualization.JPG)
+![Image Alt text](/imgs/sleep_train_data_visualization.JPG)
 
 ## Model Architecture
 
-![Image Alt text](/deep_gru.jpg)
+![Image Alt text](/imgs/deep_gru.jpg)
 
 
 ## Dataset
 #### train_series.parquet
-![Image Alt text](/sleep_train_train_series_parquet.JPG)
+![Image Alt text](/imgs/sleep_train_train_series_parquet.JPG)
 
-![Image Alt text](/sleep_train_events.csv_dataset.JPG)
+![Image Alt text](/imgs/sleep_train_events.csv_dataset.JPG)
 
 # Results
 
-![Image Alt text](sleep_train_predictions.JPG)
+![Image Alt text](imgs/sleep_train_predictions.JPG)
 
 
