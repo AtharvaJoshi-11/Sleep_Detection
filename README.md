@@ -19,6 +19,8 @@ This project focuses on sleep onset and wake-up detection using a wrist-worn acc
 
 ![Image Alt text](/sleep_train_events.csv_dataset.JPG)
 
+# Results
 
+![Image Alt text](sleep_train_predictions.JPG)
 
 
